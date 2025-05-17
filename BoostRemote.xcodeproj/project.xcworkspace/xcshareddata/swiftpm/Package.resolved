@@ -1,0 +1,33 @@
+{
+  "originHash" : "d2eee35226cbaab39458ca9ae41a6aec0331ace399f1173bf8b3d458c48f4e22",
+  "pins" : [
+    {
+      "identity" : "boostblekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bricklife/BoostBLEKit",
+      "state" : {
+        "revision" : "04f0cb8284adbf972e19b93def9b23a1d98692be",
+        "version" : "3.5.0"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "c5eecb5374ac342e22d46abd333e4c8c698c93cc",
+        "version" : "7.2.0"
+      }
+    },
+    {
+      "identity" : "reswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReSwift/ReSwift.git",
+      "state" : {
+        "revision" : "cb5c3c02f652420ef413dea41e13ac5a76b6c0fd",
+        "version" : "6.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
